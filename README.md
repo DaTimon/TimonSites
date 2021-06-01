@@ -1,6 +1,6 @@
 # TimonSite
 
-My site is published at https://datimon.github.io/TimonSites/ (主目录文件:index.html)  
+My personal website link： https://datimon.github.io/TimonSites/ (主目录文件:index.html)  
 
 HTML sites  
 Github Desktop Edited  
