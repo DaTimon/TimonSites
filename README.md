@@ -1,6 +1,6 @@
 # TimonSite
 
-My site is published at https://datimon.github.io/TimonSites/  
+My site is published at https://datimon.github.io/TimonSites/ (index.html)  
 
 HTML sites  
 Github Desktop Edited  
