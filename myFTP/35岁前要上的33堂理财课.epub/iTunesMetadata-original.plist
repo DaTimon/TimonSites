@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>曾志尧</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>31244C19B3912146D9192A9D447A8158</string>
+		<key>cover-image-path</key>
+		<string>OPS/images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip
+</string>
+		<key>package-file-hash</key>
+		<string>EF8C1BC63193F318C156BA83C66CCA63</string>
+		<key>unique-id</key>
+		<integer>-1185542063856028904</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>都市·言情</string>
+	<key>itemName</key>
+	<string>35岁前要上的33堂理财课</string>
+	<key>playlistName</key>
+	<string>35岁前要上的33堂理财课</string>
+	<key>releaseDate</key>
+	<string>2009-11-27</string>
+</dict>
+</plist>

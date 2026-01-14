@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<package version="2.0" unique-identifier="PrimaryID" xmlns="http://www.idpf.org/2007/opf">
+
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>35岁前要上的33堂理财课</dc:title>
+<dc:identifier opf:scheme="ISBN"></dc:identifier>
+<dc:language>简体中文</dc:language>
+<dc:creator>曾志尧</dc:creator>
+<dc:publisher>epub掌上书苑</dc:publisher>
+<dc:description>作者简介：曾志尧，亚洲财富管理专家，台湾最红的理财畅销书作家。在中国各地，超过1000万会员
+本书简介：一本专门写给中国年轻人的理财工具书，内容包含从初学入门必须知道的理财观念到理财进阶的实务操作。如果你希望从现在开始好好地学习投资理财，但不知道应该先看哪一本理财书籍，建议你把这本书从头到尾仔细阅读一遍，相信你一定会有非常丰富的收获。 本书内容包含从初学入门必须知道的理财观念到理财进阶的实务操作，亚洲财富管理专家在书中跟大家谈谈他的理财经验，当然也包括作者在投资理财的过程中那些惨痛的大赔教训与投资获利的心得与窍门。</dc:description>
+<dc:coverage></dc:coverage>
+<dc:source>http://www.cnepub.com</dc:source>
+<dc:date>2009-11-27</dc:date>
+<dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com浏览海量电子书。</dc:rights>
+<dc:subject>都市·言情</dc:subject>
+<dc:contributor></dc:contributor>
+<dc:type>[type]</dc:type>
+<dc:format></dc:format>
+<dc:relation></dc:relation>
+
+</metadata>
+<manifest>
+<!-- Content Documents -->
+<item id="main-css" href="css/main.css" media-type="text/css"/>
+<item id="chapter1"  href="chapter1.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter2"  href="chapter2.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter3"  href="chapter3.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter4"  href="chapter4.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter5"  href="chapter5.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter6"  href="chapter6.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter7"  href="chapter7.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter8"  href="chapter8.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter9"  href="chapter9.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter10"  href="chapter10.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter11"  href="chapter11.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter12"  href="chapter12.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter13"  href="chapter13.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter14"  href="chapter14.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter15"  href="chapter15.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter16"  href="chapter16.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter17"  href="chapter17.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter18"  href="chapter18.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter19"  href="chapter19.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter20"  href="chapter20.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter21"  href="chapter21.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter22"  href="chapter22.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter23"  href="chapter23.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter24"  href="chapter24.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter25"  href="chapter25.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter26"  href="chapter26.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter27"  href="chapter27.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter28"  href="chapter28.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter29"  href="chapter29.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter30"  href="chapter30.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter31"  href="chapter31.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter32"  href="chapter32.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter33"  href="chapter33.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter34"  href="chapter34.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter35"  href="chapter35.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter36"  href="chapter36.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter37"  href="chapter37.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter38"  href="chapter38.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter39"  href="chapter39.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter40"  href="chapter40.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter41"  href="chapter41.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter42"  href="chapter42.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter43"  href="chapter43.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter44"  href="chapter44.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter45"  href="chapter45.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter46"  href="chapter46.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter47"  href="chapter47.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter48"  href="chapter48.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter49"  href="chapter49.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter50"  href="chapter50.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter51"  href="chapter51.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter52"  href="chapter52.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter53"  href="chapter53.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter54"  href="chapter54.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter55"  href="chapter55.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter56"  href="chapter56.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter57"  href="chapter57.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter58"  href="chapter58.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter59"  href="chapter59.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter60"  href="chapter60.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter61"  href="chapter61.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter62"  href="chapter62.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter63"  href="chapter63.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter64"  href="chapter64.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter65"  href="chapter65.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter66"  href="chapter66.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter67"  href="chapter67.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter68"  href="chapter68.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter69"  href="chapter69.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter70"  href="chapter70.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter71"  href="chapter71.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter72"  href="chapter72.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter73"  href="chapter73.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter74"  href="chapter74.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter75"  href="chapter75.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter76"  href="chapter76.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter77"  href="chapter77.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter82"  href="chapter82.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter84"  href="chapter84.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter87"  href="chapter87.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter85"  href="chapter85.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter86"  href="chapter86.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter88"  href="chapter88.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter89"  href="chapter89.htm"  media-type="application/xhtml+xml"/>
+<item id="chapter90"  href="chapter90.htm"  media-type="application/xhtml+xml"/>
+
+<item id="ncx"  href="fb.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="css" href="css/main.css" media-type="text/css"/>
+<item id="cover-image" href="images/cover.jpg" media-type="image/jpeg"/></manifest>
+<spine toc="ncx">
+<itemref idref="chapter1" linear="yes"/>
+<itemref idref="chapter2" linear="yes"/>
+<itemref idref="chapter3" linear="yes"/>
+<itemref idref="chapter4" linear="yes"/>
+<itemref idref="chapter5" linear="yes"/>
+<itemref idref="chapter6" linear="yes"/>
+<itemref idref="chapter7" linear="yes"/>
+<itemref idref="chapter8" linear="yes"/>
+<itemref idref="chapter9" linear="yes"/>
+<itemref idref="chapter10" linear="yes"/>
+<itemref idref="chapter11" linear="yes"/>
+<itemref idref="chapter12" linear="yes"/>
+<itemref idref="chapter13" linear="yes"/>
+<itemref idref="chapter14" linear="yes"/>
+<itemref idref="chapter15" linear="yes"/>
+<itemref idref="chapter16" linear="yes"/>
+<itemref idref="chapter17" linear="yes"/>
+<itemref idref="chapter18" linear="yes"/>
+<itemref idref="chapter19" linear="yes"/>
+<itemref idref="chapter20" linear="yes"/>
+<itemref idref="chapter21" linear="yes"/>
+<itemref idref="chapter22" linear="yes"/>
+<itemref idref="chapter23" linear="yes"/>
+<itemref idref="chapter24" linear="yes"/>
+<itemref idref="chapter25" linear="yes"/>
+<itemref idref="chapter26" linear="yes"/>
+<itemref idref="chapter27" linear="yes"/>
+<itemref idref="chapter28" linear="yes"/>
+<itemref idref="chapter29" linear="yes"/>
+<itemref idref="chapter30" linear="yes"/>
+<itemref idref="chapter31" linear="yes"/>
+<itemref idref="chapter32" linear="yes"/>
+<itemref idref="chapter33" linear="yes"/>
+<itemref idref="chapter34" linear="yes"/>
+<itemref idref="chapter35" linear="yes"/>
+<itemref idref="chapter36" linear="yes"/>
+<itemref idref="chapter37" linear="yes"/>
+<itemref idref="chapter38" linear="yes"/>
+<itemref idref="chapter39" linear="yes"/>
+<itemref idref="chapter40" linear="yes"/>
+<itemref idref="chapter41" linear="yes"/>
+<itemref idref="chapter42" linear="yes"/>
+<itemref idref="chapter43" linear="yes"/>
+<itemref idref="chapter44" linear="yes"/>
+<itemref idref="chapter45" linear="yes"/>
+<itemref idref="chapter46" linear="yes"/>
+<itemref idref="chapter47" linear="yes"/>
+<itemref idref="chapter48" linear="yes"/>
+<itemref idref="chapter49" linear="yes"/>
+<itemref idref="chapter50" linear="yes"/>
+<itemref idref="chapter51" linear="yes"/>
+<itemref idref="chapter52" linear="yes"/>
+<itemref idref="chapter53" linear="yes"/>
+<itemref idref="chapter54" linear="yes"/>
+<itemref idref="chapter55" linear="yes"/>
+<itemref idref="chapter56" linear="yes"/>
+<itemref idref="chapter57" linear="yes"/>
+<itemref idref="chapter58" linear="yes"/>
+<itemref idref="chapter59" linear="yes"/>
+<itemref idref="chapter60" linear="yes"/>
+<itemref idref="chapter61" linear="yes"/>
+<itemref idref="chapter62" linear="yes"/>
+<itemref idref="chapter63" linear="yes"/>
+<itemref idref="chapter64" linear="yes"/>
+<itemref idref="chapter65" linear="yes"/>
+<itemref idref="chapter66" linear="yes"/>
+<itemref idref="chapter67" linear="yes"/>
+<itemref idref="chapter68" linear="yes"/>
+<itemref idref="chapter69" linear="yes"/>
+<itemref idref="chapter70" linear="yes"/>
+<itemref idref="chapter71" linear="yes"/>
+<itemref idref="chapter72" linear="yes"/>
+<itemref idref="chapter73" linear="yes"/>
+<itemref idref="chapter74" linear="yes"/>
+<itemref idref="chapter75" linear="yes"/>
+<itemref idref="chapter76" linear="yes"/>
+<itemref idref="chapter77" linear="yes"/>
+<itemref idref="chapter82" linear="yes"/>
+<itemref idref="chapter84" linear="yes"/>
+<itemref idref="chapter87" linear="yes"/>
+<itemref idref="chapter85" linear="yes"/>
+<itemref idref="chapter86" linear="yes"/>
+<itemref idref="chapter88" linear="yes"/>
+<itemref idref="chapter89" linear="yes"/>
+<itemref idref="chapter90" linear="yes"/>
+
+</spine>
+<guide>
+<reference type="text" title="目录"  href="chapter1.htm"/>
+<reference type="text" title="第1课 从700元到400万，距离并不遥远"  href="chapter2.htm"/>
+<reference type="text" title="安稳守财的时代已经过去了！"  href="chapter3.htm"/>
+<reference type="text" title="钱进银行，只会愈来愈少！"  href="chapter4.htm"/>
+<reference type="text" title="每月投资700元，退休拿到400万"  href="chapter5.htm"/>
+<reference type="text" title="第2课 在21世纪，复利的威力胜过原子弹"  href="chapter6.htm"/>
+<reference type="text" title="人赚钱，最传统的赚钱术"  href="chapter7.htm"/>
+<reference type="text" title="钱赚钱，自动赚钱的方法"  href="chapter8.htm"/>
+<reference type="text" title="复利，比原子弹还可怕的效果"  href="chapter9.htm"/>
+<reference type="text" title="投资自己是最稳当的赚钱方法"  href="chapter10.htm"/>
+<reference type="text" title="第3课 你知道自己属于哪种类型的投资人吗？"  href="chapter11.htm"/>
+<reference type="text" title="投资属性与理财成败之间的关系"  href="chapter12.htm"/>
+<reference type="text" title="投资属性可以区分哪些类型？"  href="chapter13.htm"/>
+<reference type="text" title="简易测量法：我属于哪一类型？"  href="chapter14.htm"/>
+<reference type="text" title="即使同一种投资工具，也有不同的风险属性"  href="chapter15.htm"/>
+<reference type="text" title="第4课 理财不要跟风，理财是你自己的事"  href="chapter16.htm"/>
+<reference type="text" title="盲点一 经验落伍，没有全球眼光"  href="chapter17.htm"/>
+<reference type="text" title="盲点二 相信二手传播，眼中只有跟风"  href="chapter18.htm"/>
+<reference type="text" title="盲点三 四处胡乱投资，根本不清楚损益"  href="chapter19.htm"/>
+<reference type="text" title="盲点四 没有目标，搞不清楚自己的投资属性"  href="chapter20.htm"/>
+<reference type="text" title="画一张财富地图，通往财务自由"  href="chapter21.htm"/>
+<reference type="text" title="第5课 投资理财，人性比方法重要一万倍"  href="chapter22.htm"/>
+<reference type="text" title="难以逃离人性束缚是投资失败的主因"  href="chapter23.htm"/>
+<reference type="text" title="危言耸听，投资怯步"  href="chapter24.htm"/>
+<reference type="text" title="控制情绪是致富的第一步"  href="chapter25.htm"/>
+<reference type="text" title="投资成功的关键：剖析自己"  href="chapter26.htm"/>
+<reference type="text" title="第6课 没有数字化的理财目标，等于毫无目标"  href="chapter27.htm"/>
+<reference type="text" title="理财目标包括哪些？"  href="chapter28.htm"/>
+<reference type="text" title="钱不是赚愈多愈好吗？为什么要设定目标？"  href="chapter29.htm"/>
+<reference type="text" title="具体化、数字化，完成理财目标"  href="chapter30.htm"/>
+<reference type="text" title="每半年重新检视，修正不切实际的目标"  href="chapter31.htm"/>
+<reference type="text" title="确立目标要考虑的外在问题"  href="chapter32.htm"/>
+<reference type="text" title="第7课 不管有钱没钱，善用资产配置好赚钱"  href="chapter33.htm"/>
+<reference type="text" title="钱不多的人也要进行资产配置吗？"  href="chapter34.htm"/>
+<reference type="text" title="鸡蛋到底要不要放在同一个篮子？"  href="chapter35.htm"/>
+<reference type="text" title="资产配置的关键：风险"  href="chapter36.htm"/>
+<reference type="text" title="资产配置的三大步骤"  href="chapter37.htm"/>
+<reference type="text" title="资产配置要考虑多样、流动性与保险"  href="chapter38.htm"/>
+<reference type="text" title="第8课 五条必须遵守的投资法则"  href="chapter39.htm"/>
+<reference type="text" title="告诉我稳赚不赔的投资秘诀"  href="chapter40.htm"/>
+<reference type="text" title="投资法则千变万化 有些甚至相抵触 该信哪种"  href="chapter41.htm"/>
+<reference type="text" title="个人经验有出入，微调实际操作方式"  href="chapter42.htm"/>
+<reference type="text" title="打好基础，学好基本功"  href="chapter43.htm"/>
+<reference type="text" title="第9课 三个投资大师——学习典范"  href="chapter44.htm"/>
+<reference type="text" title="安德烈-科斯托兰尼：股票投资的十律与十戒"  href="chapter45.htm"/>
+<reference type="text" title="彼得-林奇：从不担心短期波动"  href="chapter46.htm"/>
+<reference type="text" title="华伦-巴菲特：勇敢买进、长期持有"  href="chapter47.htm"/>
+<reference type="text" title="如何成为投资大师"  href="chapter48.htm"/>
+<reference type="text" title="持之以恒，胜券在握"  href="chapter49.htm"/>
+<reference type="text" title="第10课 富豪都有哪些特质？"  href="chapter50.htm"/>
+<reference type="text" title="中国富豪排行榜"  href="chapter51.htm"/>
+<reference type="text" title="贫富差距大，M型社会形成"  href="chapter52.htm"/>
+<reference type="text" title="解读致富密码"  href="chapter53.htm"/>
+<reference type="text" title="致富特质大公开"  href="chapter54.htm"/>
+<reference type="text" title="节俭理财，脱贫致富的关键"  href="chapter55.htm"/>
+<reference type="text" title="第11课 理财活动与生命周期密不可分"  href="chapter56.htm"/>
+<reference type="text" title="不理财，压力会越来越大"  href="chapter57.htm"/>
+<reference type="text" title="理财六部曲：人生不同时期的理财规划"  href="chapter58.htm"/>
+<reference type="text" title="人生有周期，理财要变化"  href="chapter59.htm"/>
+<reference type="text" title="第12课 为你的资产架构照照X光"  href="chapter60.htm"/>
+<reference type="text" title="控制自身经济状况，是驾驭金钱的开端"  href="chapter61.htm"/>
+<reference type="text" title="资产、负债、股本、净值"  href="chapter62.htm"/>
+<reference type="text" title="不要再扯后腿！抓出造成资产不断流失的漏洞"  href="chapter63.htm"/>
+<reference type="text" title="财富不断积累，成就感十足"  href="chapter64.htm"/>
+<reference type="text" title="第13课 你的负债现在合理吗？"  href="chapter65.htm"/>
+<reference type="text" title="揪出造成债务危机的杀手"  href="chapter66.htm"/>
+<reference type="text" title="我掉入危机当中了吗？"  href="chapter67.htm"/>
+<reference type="text" title="积极清偿，有效管理"  href="chapter68.htm"/>
+<reference type="text" title="十个聪明步骤让你聪明管理负债"  href="chapter69.htm"/>
+<reference type="text" title="结论"  href="chapter70.htm"/>
+<reference type="text" title="第14课 保险让你的一生努力不至于归零"  href="chapter71.htm"/>
+<reference type="text" title="保险是风险的控制阀"  href="chapter72.htm"/>
+<reference type="text" title="双十策略，打造防护墙"  href="chapter73.htm"/>
+<reference type="text" title="稳固天下五大险，建筑风险防护网"  href="chapter74.htm"/>
+<reference type="text" title="第15课 家庭幸福才会财源广进"  href="chapter75.htm"/>
+<reference type="text" title="“前方吃紧、后方紧吃”家庭财务漏洞让人慌"  href="chapter76.htm"/>
+<reference type="text" title="让孩子学会当钱的主人"  href="chapter77.htm"/>
+<reference type="text" title="第16课 你是聪明先生还是笨蛋先生？"  href="chapter82.htm"/>
+<reference type="text" title="节省系商品帮你省银子"  href="chapter84.htm"/>
+<reference type="text" title="附：2007年《福布斯》中国富豪榜"  href="chapter87.htm"/>
+<reference type="text" title="实施计划经济，克制欲望"  href="chapter85.htm"/>
+<reference type="text" title="节省不是抠门，精算不是小气"  href="chapter86.htm"/>
+<reference type="text" title="101-200"  href="chapter88.htm"/>
+<reference type="text" title="201-300"  href="chapter89.htm"/>
+<reference type="text" title="301-400"  href="chapter90.htm"/>
+
+</guide>
+</package>

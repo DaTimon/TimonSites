@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>503808</integer>
+	<key>BKDisplayName</key>
+	<string>35岁前要上的33堂理财课</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>764654227</integer>
+	<key>artistName</key>
+	<string>曾志尧</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>31244C19B3912146D9192A9D447A8158</string>
+		<key>cover-image-path</key>
+		<string>OPS/images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip
+</string>
+		<key>package-file-hash</key>
+		<string>EF8C1BC63193F318C156BA83C66CCA63</string>
+		<key>unique-id</key>
+		<integer>-1185542063856028904</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>bookDescription</key>
+	<string>作者简介：曾志尧，亚洲财富管理专家，台湾最红的理财畅销书作家。在中国各地，超过1000万会员
+本书简介：一本专门写给中国年轻人的理财工具书，内容包含从初学入门必须知道的理财观念到理财进阶的实务操作。如果你希望从现在开始好好地学习投资理财，但不知道应该先看哪一本理财书籍，建议你把这本书从头到尾仔细阅读一遍，相信你一定会有非常丰富的收获。 本书内容包含从初学入门必须知道的理财观念到理财进阶的实务操作，亚洲财富管理专家在书中跟大家谈谈他的理财经验，当然也包括作者在投资理财的过程中那些惨痛的大赔教训与投资获利的心得与窍门。</string>
+	<key>genre</key>
+	<string>都市·言情</string>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>35岁前要上的33堂理财课</string>
+	<key>updateDate</key>
+	<date>2025-03-26T03:57:07Z</date>
+</dict>
+</plist>
